@@ -1,7 +1,7 @@
-import ErickImage from "../../assets/Erick.jpg";
-import ThiagoImage from "../../assets/Thiago.jpg";
-import TiagoImage from "../../assets/Tiago.jpg";
-import PedroImage from "../../assets/Pedro.jpg";
+import ErickImage from "../assets/Erick.jpg";
+import ThiagoImage from "../assets/Thiago.jpg";
+import TiagoImage from "../assets/Tiago.jpg";
+import PedroImage from "../assets/Pedro.jpg";
 
 export interface ITeamMember {
   name: string;
